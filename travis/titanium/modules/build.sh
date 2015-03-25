@@ -92,4 +92,4 @@ if [ -d "$MODULE_ROOT/android/" ]; then
   
 fi
 echo "********************* STATUS = $RETSTATUS  ********************* "
-exit $RETSTATUS
+#exit $RETSTATUS
